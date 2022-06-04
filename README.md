@@ -8,4 +8,4 @@
 
 ## How to run program
 * Open file "Gra w statki"
-* Just open files in your C++ IDE# Warship-Battle
+* Just open files in your C++ IDE
