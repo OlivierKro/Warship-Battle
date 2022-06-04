@@ -1,0 +1,18 @@
+Zasady gry:
+----------------------------------------------------------------------------------------------------------------------
+1.W grze bierze udzial uzytkownik i jego przeciwnik, ktory w zaleznosci od wyboru jest drugim uzytkownikiem lub botem
+2.Gra toczy sie na polu o wymiarach 7x7
+3.Kazdy gracz posiada 2 pola
+	-Pierwsze pole obrazuje rozlozenie wlasnych statkow oraz strzaly przeciwnika
+	-Drugie pole obrazuje wlasne strzaly oraz w przypadku trafienia okrety wroga
+4.Kazdy gracz posiada 6 statkow
+	-1x Trojmasztowiec
+	-2x Dwumasztowiec
+	-3x Jednomasztowiec
+5.Statki mozna dowolnie ustawiac i obracac lecz wszystkie maszty danego statku musza lezec w jednej linii
+6.Statki nie moga sie stykac masztami
+7.Po rozstawieniu gracze oddaja po kolei strzały
+8.Jesli bot zatopi statek gracza, pojawi się komunikat
+9.Gracz, ktory zatopi wszystkie statki przeciwnika wygrywa
+10.Jesli obydwoje graczy w tej samej turze zatopia wszystkie statki przeciwnika, wtedy rezultatem jest remis
+----------------------------------------------------------------------------------------------------------------------
